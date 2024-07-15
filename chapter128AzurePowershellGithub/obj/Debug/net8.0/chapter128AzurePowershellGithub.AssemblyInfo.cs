@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chapter128AzurePowershellGithub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cc6bd7db718bdba2764ecb19bc9c5ebf82208a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("chapter128AzurePowershellGithub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chapter128AzurePowershellGithub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
